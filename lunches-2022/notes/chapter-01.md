@@ -1,1 +1,7 @@
-The first chapter of the book introduces PowerShell and its usage.
+# Chapter 01 – Before you begin
+
+**Concept learned:** How to use this book.
+
+**Key commands:** -
+
+**Useful when:** -
