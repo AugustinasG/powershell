@@ -1,4 +1,4 @@
-# Chapter 06 – Adding Commands
+# Chapter 07 – Adding Commands
 
 **Concept learned:** Finding out about PowerShell Gallery and its modules.
 
