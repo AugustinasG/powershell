@@ -1,4 +1,4 @@
-# Chapter 10 – Formatting: And why it's done on the right
+# Chapter 11 – Formatting: And why it's done on the right
 
 **Concept learned:** Chapter on how formatting works.
 
