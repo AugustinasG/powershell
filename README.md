@@ -1,6 +1,6 @@
 # PowerShell Practice
 
-This repo contains my PowerShell learning journey.  
+This repository contains my journey of learning PowerShell.  
 Currently following **Learn PowerShell in a Month of Lunches (4th Edition, 2022)**.  
 
 ## Structure
